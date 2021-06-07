@@ -1,0 +1,10 @@
+.r1{
+    background-color: rgb(156, 243, 148);
+    border: 2px brown solid;
+    border-radius: 3px ;
+    box-shadow: 1px 10px 90px 1px rgb(226, 134, 14);
+    
+    width: 550px;
+    height: 300px;
+    color:brown;
+}
